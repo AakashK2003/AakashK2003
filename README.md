@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aakash and I'm a Python Developer, from India</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif"  />
+<img align="right" height="225" src="https://media.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif"  />
 
 ###
 
