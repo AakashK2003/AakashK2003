@@ -65,3 +65,5 @@
 <h2 align="left">It works in my Machine 🤷‍♂️</h2>
 
 ###
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=krtkn_sky)](https://github.com/KnlnKS/leetcode-stats)
