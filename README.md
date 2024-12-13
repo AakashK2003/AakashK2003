@@ -66,4 +66,4 @@
 
 ###
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=krtkn_sky)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/krtkn_sky)
